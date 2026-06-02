@@ -158,6 +158,6 @@ Instead of only predicting churn, this project builds a full retention intellige
 
 👨‍💻 Author
 
-Vaishu
+Vaishya
 Final Year AI Student
 Specialization: Data Analytics, Machine Learning, Business Intelligence
